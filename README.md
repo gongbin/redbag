@@ -1,6 +1,6 @@
 # AI Cover
 
-AI Cover Generator by [aicover.design](https://aicover.design)
+AI RedBag Cover Generator by [aicover.design](https://aicover.design)
 
 [中文说明](/README_CN.md)
 
